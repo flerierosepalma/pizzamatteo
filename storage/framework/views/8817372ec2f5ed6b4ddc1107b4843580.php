@@ -1,0 +1,1 @@
+owner<?php /**PATH C:\xampp\htdocs\pizzamatteo\resources\views/owner_home.blade.php ENDPATH**/ ?>
